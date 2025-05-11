@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "React makes building user interfaces both powerful and efficient by breaking them into reusable components. Instead of handling all logic in one place, each component can manage its own state, respond to user input, and fetch data as needed. This approach improves organization, reduces repetition, and helps developers build scalable applications. One powerful feature of React is the useEffect hook, which lets you run code in response to changes in your component — like fetching data when a page loads. To prevent potential issues like memory leaks, especially during async operations, React allows you to return a function from useEffect. This ensures things like API calls or event listeners are safely stopped if the component goes away or the effect needs to re-run. Understanding this behavior is key to writing clean, bug-free React code.",
+      "author": "Milan",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party",
+      "body": "Our opening party was a huge success! We celebrated the launch of our new platform, bringing together a diverse group of people from various industries. The night was filled with laughter, excitement, and plenty of networking opportunities. We’re so grateful for everyone who came out and showed their support. This is just the beginning, and we’re excited for what the future holds. Stay tuned for more events like this one!",
+      "author": "Shelby",
+      "id": "2"
+    },
+    {
+      "id": "e0b6",
+      "title": "whats wrong",
+      "body": "dfldjflsdjf",
+      "author": "Milan"
+    }
+  ]
+}
